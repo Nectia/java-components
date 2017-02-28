@@ -1,0 +1,34 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.factorypath
+.metadata/
+Servers/
+.recommenders/
+workspace
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+*.springBeans
+*.factorypath
+# gestcon-parent/gestcon-webapp/src/main/resources/import.sql
+static/
+dist/
+
+node_modules/
+bower_components/
+gestcon-client/node/**
+gestcon-parent/gestcon-business/src/main/java/com/enel/gestcon/business/implementations/ContractServiceImpl.java.orig
+out/
+.svn/
+.sonarlint/
