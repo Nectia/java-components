@@ -1,3 +1,5 @@
 language: java
-
-./mvnw clean package
+jdk:
+  - oraclejdk7
+sudo: required
+script: ./mvnw clean package
