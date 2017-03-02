@@ -37,7 +37,7 @@
     <dependencies>
         <dependency>
             <groupId>com.nectia</groupId>
-            <artifactId>necita-helpers</artifactId>
+            <artifactId>nectia-helpers</artifactId>
             <version>1.0-RC</version>
         </dependency>
         <dependency>
