@@ -1,4 +1,4 @@
-# java-components
+# java-components [![Build Status](https://travis-ci.org/Nectia/java-components.svg?branch=master)](https://travis-ci.org/Nectia/java-components)
 
 Componentes reutilizables java
 
