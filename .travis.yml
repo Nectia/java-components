@@ -1,5 +1,5 @@
 language: java
 jdk:
   - oraclejdk7
-sudo: required
+sudo: false
 script: ./mvnw clean package -Dgpg.skip
