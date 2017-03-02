@@ -11,7 +11,7 @@
 
     <name>${project.groupId}:${project.artifactId}</name>
     <artifactId>nectia-helpers</artifactId>
-    <description>Parent project with base dependencies for nectia proyects</description>
+    <description>Project with different kind of helpers</description>
     <url>https://github.com/Nectia/java-components</url>
     <licenses>
         <license>

@@ -16,7 +16,7 @@
 
     <name>${project.groupId}:${project.artifactId}</name>
     <artifactId>nectia-mail</artifactId>
-    <description>Parent project with base dependencies for nectia proyects</description>
+    <description>Project with components to facilitate the sending of emails</description>
     <url>https://github.com/Nectia/java-components</url>
     <licenses>
         <license>
