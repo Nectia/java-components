@@ -17,8 +17,8 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 public @interface QuartzCron {
     /**
-     * Valor del cron, este debe ser un properti con la nomenclatura ${propiedad} o un valor en fijo siguiendo la nomenclatura de quartz
-     * {@see http://www.quartz-scheduler.org/documentation/quartz-2.x/tutorials/crontrigger.html}
+     * Valor del cron, este debe ser un properti con la nomenclatura ${propiedad} y el valor de la propiedad debe serguir la nomenclatura de quartz
+     * http://www.quartz-scheduler.org/documentation/quartz-2.x/tutorials/crontrigger.html
      */
     String cron();
 }
