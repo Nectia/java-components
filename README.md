@@ -1,4 +1,7 @@
-# java-components [![Build Status](https://travis-ci.org/Nectia/java-components.svg?branch=master)](https://travis-ci.org/Nectia/java-components)
+# java-components 
+
+[![Build Status](https://travis-ci.org/Nectia/java-components.svg?branch=master)](https://travis-ci.org/Nectia/java-components)
+[![Coverage Status](https://coveralls.io/repos/github/Nectia/java-components/badge.svg?branch=master)](https://coveralls.io/github/Nectia/java-components?branch=master)
 
 Componentes reutilizables java
 

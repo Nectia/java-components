@@ -4,3 +4,5 @@ jdk:
 sudo: false
 install: true
 script: ./mvnw clean package -Dgpg.skip
+after_success:
+  - mvn clean cobertura:cobertura coveralls:report
